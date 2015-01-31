@@ -1,5 +1,5 @@
 
-Bill Gates's house is a large mansion that overlooks Lake Washington in Medina, Washington, United States of America. The 66,000-square-foot (6,100 m2) mansion is noted for its design and the technology it incorporates. It is nicknamed Xanadu 2.0 after the title character's estate in Citizen Kane. It took seven years to build and cost $63.2 million.
+
 
 In 2009, property taxes were reported to be US $1.063 million on a total assessed value of US$147.5 million.
 
