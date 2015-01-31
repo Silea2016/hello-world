@@ -1,52 +1,45 @@
-## Hack Spots
+Spoturi hack
 
-Getting work done.
+Noțiuni de bază lucrările efectuate .
 
-A site I made to collect prime hacking locations. [jlord.github.io/hack-spots](https://github.com/jlord/hello-world.git).
+Un site am făcut pentru a colecta locatii hacking prime                                                         jlord.github.io/hack-spots .
 
-## Resources
+resurse
 
-### Finding answers.
+Găsirea răspunsuri .
 
-- [Mozilla Developer Network](http://developer.mozilla.com)
-- [stackoverflow](http://stackoverflow.com)
+Mozilla Developer Network
+StackOverflow
+Tutoriale / Ghiduri
 
-### Tutorials / Guides
+JS
 
-**JS**
+JS pentru Pisici
+Elocvent JavaScript
+nod
 
-- [JS for Cats](http://www.jsforcats.com)
-- [Eloquent JavaScript](http://http://eloquentjavascript.net/)
+Nod pentru incepatori de rockbot
+Arta de a Nod de maxogden
+NodeSchool
+în față
 
-**Node**
+HTML & CSS ​​de Shay Howe
+Aflați CSS Layout de boucoup
+Screencasts de mrmrs
+bunuri
 
-- [Node for Beginners](https://github.com/rockbot/node-for-beginners) by @rockbot
-- [Art of Node](https://github.com/maxogden/art-of-node) by @maxogden
-- [NodeSchool](http://www.nodeschool.io)
+Unsplash gratuite de înaltă res fotografii stoc
+bunuri
 
-**Front end**
+Formulare WTF de mdo
+WTF CSS de mdo
+PS , AI , Git , Vim , CSS Cheatsheet de WilliamLeeks
+Frumos site-uri open source de către trek
+Dot Fișiere
 
-- [HTML & CSS](http://learn.shayhowe.com/html-css/) by Shay Howe
-- [Learn CSS Layout](http://learnlayout.com/) by @boucoup
-- [Screencasts by mrmrs](http://designbytyping.com/)
+Acordarea lucruri culori .
 
-**Assets**
+jlord / dotfiles
+Peeps Awesome
 
-- [Unsplash](https://unsplash.com/) Free high-res stock photos
-
-## Assets
-
-- [WTF Forms](http://wtfforms.com/) by @mdo
-- [WTF CSS](http://wtfhtmlcss.com/) by @mdo 
-- [PS, AI, Git, Vim, CSS Cheatsheet](http://www.cheetyr.com/) by @WilliamLeeks
-- [Beautiful Open](http://beautifulopen.com/) source sites by @trek
-
-## Dot Files
-
-Giving things colors.
-
-- [jlord/dotfiles](https://github.com/jlord/dotfiles)
-
-## Awesome Peeps
-
-- @muan
+muan
