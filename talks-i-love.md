@@ -1,4 +1,7 @@
-
+-Inspiring, Culture, HECK YEAH
+ 
+-- [No more unicorns](https://www.youtube.com/watch?v=qYjsDilCM0I&index=13&list=UUIP244iNzbn4iEkDOgczvcQ) 
+- - Cascadia JS, [@ceejbot](https://github.com/ceejbot)
 
 
 In 2009, property taxes were reported to be US $1.063 million on a total assessed value of US$147.5 million.
